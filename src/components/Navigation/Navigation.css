@@ -1,0 +1,11 @@
+.Navigation {
+  display: flex;
+  height: 40px;
+  background-color: tomato;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px 15px;
+  font-weight: bold;
+  font-size: 20px;
+  color: white;
+}

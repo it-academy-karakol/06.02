@@ -1,0 +1,14 @@
+.ControlPanel {
+  text-align: center;
+}
+.ControlPanel button {
+  background-color: red;
+  width: 150px;
+  height: 150px;
+  margin: 50px auto;
+  border-radius: 100%;
+  border: none;
+  font-weight: bold;
+  color: white;
+  font-size: 20px;
+}
